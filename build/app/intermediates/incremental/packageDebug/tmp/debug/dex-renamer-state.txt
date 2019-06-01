@@ -1,0 +1,4 @@
+#Sat Jun 01 22:52:57 ICT 2019
+base.0=D\:\\learning\\flutter\\Pertama\\indonesian_heritage\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
